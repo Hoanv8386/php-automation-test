@@ -1,1 +1,1 @@
-<?php echo 'hello what the fuckaaaaaaaa'; ?>
+<?php echo 'hello what the fuck'; ?>
